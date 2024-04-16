@@ -1,0 +1,11 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+  .background-image {
+    background-image: url('./background.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover; /* This ensures the image covers the entire div */
+    background-position: center; /* This centers the image within the div */
+  }
